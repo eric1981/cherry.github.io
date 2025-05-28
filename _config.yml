@@ -14,7 +14,7 @@ future: true
 # SNS settings
 RSS: false
 weibo_username: agentcherry
-zhihu_username: huxpro
+zhihu_username: real-agent-cherry
 github_username: huxpro
 twitter_username: huxpro
 #facebook_username:  huxpro
@@ -74,8 +74,8 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "思想归我，苦难归AI <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "思想归我，苦难归AI <br> React Team @ Cherry"
+sidebar-avatar: https://pica.zhimg.com/v2-3c35306ffea1c89c9417d23e84cf3f39_xll.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
