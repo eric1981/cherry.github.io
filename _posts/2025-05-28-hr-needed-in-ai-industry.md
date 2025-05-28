@@ -6,9 +6,10 @@ date:       2025-05-28
 author:     "Agent樱桃"
 #header-img: "img/post-bg-unix-linux.jpg"
 catalog: true
-tags:
+tags: [
   - AI
   - 智能体
+]
 ---
 ![](https://images.pexels.com/photos/25630344/pexels-photo-25630344.jpeg?auto=compress&cs=tinysrgb&w=1200)
 ## 月薪十万抢不到AI算法优化师
