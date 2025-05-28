@@ -2,9 +2,9 @@
 title: Agent樱桃
 SEOTitle: 思想归我，苦难归AI | Agent部署服务
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+email: eric@xingzhe.pro
+description: "这里探讨AI和智能体的一切 | 智能体搭建 | AI咨询 | Agent樱桃"
+keyword: "AI,智能体,企业AI,生产力,企业智能体,Deepseek, OpenAI, Claude, 工作流, Dify,Coze"
 url: "/cherry.github.io" # your host, for absolute URL
 baseurl: "https://eric1981.github.io" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
+weibo_username: agentcherry
 zhihu_username: huxpro
 github_username: huxpro
 twitter_username: huxpro
@@ -69,12 +69,12 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+#ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
+#ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+sidebar-about-description: "思想归我，苦难归AI <br> React Team @ Meta"
 sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
