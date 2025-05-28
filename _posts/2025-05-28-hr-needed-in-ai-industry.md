@@ -1,10 +1,10 @@
 ---
 layout:     post
 title:      "月薪十万招不到人？AI算法优化师已成2024年最疯狂职业，人才缺口达400万！"
-subtitle:   "不适合人类阅读，非常水的自我笔记"
+subtitle:   "旧的不去新的不来"
 date:       2025-05-28 
 author:     "Agent樱桃"
-header-img: "img/post-bg-unix-linux.jpg"
+#header-img: "img/post-bg-unix-linux.jpg"
 catalog: true
 tags:
   - AI

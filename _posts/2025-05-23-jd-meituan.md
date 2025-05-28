@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "2019 年 PWA(Progressive Web App) 凉了吗？"
-subtitle: "Is PWA effectively dead in 2019?"
-author: "Hux"
+title: "2025京东外卖搅局，美团还坐得住么"
+#subtitle: "Is PWA effectively dead in 2019?"
+author: "Agent樱桃"
 header-style: text
 tags:
   - 京东
