@@ -24,6 +24,14 @@ twitter_username: eric1981
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
 permalink: pretty
+# 添加以下规则，确保分类和标签页的 URL 不被影响
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      # 强制所有文章使用自定义 permalink 规则（覆盖全局 pretty）
+      permalink: /:year/:month/:day/:slug/
 paginate: 10
 exclude:
   [
