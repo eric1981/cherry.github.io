@@ -1,10 +1,10 @@
 ---
-layout:post
-title:"AI改写节气营销，人机共舞决胜未来"
+layout: post
+title: "AI改写节气营销，人机共舞决胜未来"
 #subtitle: "This is a subtitle"
-date:2025-05-28
-author:"Agent樱桃"
-header-img:"img/post-bg-2015.jpg"
+date: 2025-05-28
+author: "Agent樱桃"
+header-img: "img/post-bg-2015.jpg"
 tags:
     - AI
     - 营销

@@ -1,10 +1,10 @@
 ---
-layout:post
-title:"当县城青年开始用AI改造世界"
-date:2025-05-28 
-author:"Agent樱桃"
-header-img
-catalog:true
+layout: post
+title: "当县城青年开始用AI改造世界"
+date: 2025-05-28 
+author: "Agent樱桃"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
 tags:
     - AI
     - 县城

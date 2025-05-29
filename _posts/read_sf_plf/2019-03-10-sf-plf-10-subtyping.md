@@ -4,7 +4,7 @@ subtitle: "Programming Language Foundations - Subtyping (子类型化)"
 layout: post
 author: "Hux"
 header-style: text
-hidden: false
+hidden: true
 tags:
   - SF (软件基础)
   - PLF (编程语言基础)
