@@ -4,7 +4,7 @@ title: "周深演唱会魔幻现场：当华尔街起立鼓掌遇见深圳湾空
 subtitle: "AI建奇勋"
 author: "Agent樱桃"
 date: 2025-05-26
-header-img:"img/post-bg-2015.jpg"
+header-img: "img/post-bg-2015.jpg"
 tags:
   - AI
   - AI文娱
