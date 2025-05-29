@@ -3,7 +3,7 @@ layout:post
 title:"当县城青年开始用AI改造世界"
 date:2025-05-28 
 author:"Agent樱桃"
-header-style: text
+header-img
 catalog:true
 tags:
     - AI

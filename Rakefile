@@ -38,13 +38,13 @@ slug = Time.now.strftime('%H%M%S') if slug.empty?
   puts "Creating new post: #{filename}"
   open(filename, 'w') do |post|
     post.puts "---"
-    post.puts "layout: post"
-    post.puts "title: \"#{title.gsub(/-/,' ')}\""
-    post.puts "subtitle: \"#{subtitle.gsub(/-/,' ')}\""
-    post.puts "date: #{date}"
-    post.puts "author: \"Agent樱桃\""
-    post.puts "header-img: \"img/post-bg-2015.jpg\""
-    post.puts "tags: []"
+    post.puts "layout:post"
+    post.puts "title:\"#{title.gsub(/-/,' ')}\""
+    post.puts "subtitle:\"#{subtitle.gsub(/-/,' ')}\""
+    post.puts "date:#{date}"
+    post.puts "author:\"Agent樱桃\""
+    post.puts "header-img:\"img/post-bg-2015.jpg\""
+    post.puts "tags:"
     post.puts "---"
   end
 end # task :post
