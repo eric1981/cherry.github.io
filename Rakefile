@@ -20,10 +20,8 @@ task :post do
   title = ENV["title"] || "new-post"
   subtitle = ENV["subtitle"] || "This is a subtitle"
   #slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
-  # 修改这一行来支持中文  
-slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w\u4e00-\u9fa5-]/, '')  
-# 如果 slug 为空（全是中文），使用时间戳  
-slug = Time.now.strftime('%H%M%S') if slug.empty?
+
+slug = Time.now.strftime('%H%M%S')
   begin
     date = (ENV['date'] ? Time.parse(ENV['date']) : Time.now).strftime('%Y-%m-%d')
   rescue Exception => e
