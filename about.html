@@ -1,48 +1,36 @@
 ---
+title: "About Agent Cherry"
 layout: page
-title: "About"
-description: "「他单纯只想把日子过得不浪费」"
-header-img: "img/bg-me-2022.jpg"
+description: "思想归于我们，苦力活归于AI"
 header-mask: 0.3
 multilingual: true
 ---
 
-{% include multilingual-sel.html %}
+{% capture about_content %}
+>Cherry不是一个人，她是一个团队。Agent Cherry也不是特工Cherry。
+>- Agent是AI智能体
+>- Cherry是代号
+>- 思想归于我们，苦力归于AI
 
-<!-- Chinese Version -->
-<div class="zh post-container">
-    {% capture about_zh %}{% include about/zh.md %}{% endcapture %}
-    {{ about_zh | markdownify }}
-</div>
-
-<!-- English Version -->
-<div class="en post-container">
-    {% capture about_en %}{% include about/en.md %}{% endcapture %}
-    {{ about_en | markdownify }}
-</div>
-
-
-{% if site.disqus_username %}
-<!-- disqus 评论框 start -->
-<div class="comment">
-    <div id="disqus_thread" class="disqus-thread">
-
-    </div>
-</div>
-<!-- disqus 评论框 end -->
-
-<!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = "{{site.disqus_username}}";
-    var disqus_identifier = "{{site.disqus_username}}/{{page.url}}";
-    var disqus_url = "{{site.url}}{{page.url}}";
-
-    (function () {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<!-- disqus 公共JS代码 end -->
-{% endif %}
+## 简介
+我们专注企业智能体部署，企业知识库部署。为企业降本增效，用1个人的工资干100个人的活。
+广州红了樱桃传媒科技有限公司，成立于2017年，是抖音等平台MCN机构，孵化电商IP账号数百个，总粉丝量超千万，单月带货千万级。
+作为新营销科技领域的先行者，我们深度融合AI技术与直播电商，专注为服装、百货、食品等行业提供品效合一的数字化营销解决方案。
+## 企业愿景和价值观
+-  愿景：成为AI时代消费影响力的制造者
+- 使命：用智能科技重构人货场连接效率
+- 长期主义：行业Know-How优先于流量
+- 技术驱动：每周迭代一个AI工作流
+- 结果导向：ROI是检验效果的唯一标准
+## 核心业务
+- 短视频和直播AI中台：从脚本到投放优化全链路执行
+- AI数字员工部署：从高级文案到AI市场部
+- 企业IP孵化
+## 我们的优势
+- 精准孵化：行业账号孵化成功率是友商三倍
+- 自研爆款文案AI智能体：效率和产出提升5倍
+- 聚焦商业变现：不以流量论英雄
+- 智能选品雷达：让AI对阵AI
+- 成熟矩阵打法：让IP不是孤军奋战
+{% endcapture %}  
+{{ about_content | markdownify }}
