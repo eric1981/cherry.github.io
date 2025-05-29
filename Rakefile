@@ -36,15 +36,15 @@ slug = Time.now.strftime('%H%M%S')
   puts "Creating new post: #{filename}"
   open(filename, 'w') do |post|
     post.puts "---"
-    post.puts "layout:post"
-    post.puts "title:\"#{title}\""
-    post.puts "subtitle:\"#{subtitle}\""
-    post.puts "date:#{date}"
-    post.puts "author:\"Agent樱桃\""
-    post.puts "header-style:text"
+    post.puts "layout: post"
+    post.puts "title: \"#{title}\""
+    post.puts "subtitle: \"#{subtitle}\""
+    post.puts "date: #{date}"
+    post.puts "author: \"Agent樱桃\""
+    post.puts "header-style: text"
     # 关键修改：覆盖 permalink，确保 URL 格式为 /YYYY/MM/DD/slug/
     post.puts "permalink: /#{date.gsub('-', '/')}/#{slug}/"
-    post.puts "tags:"
+    post.puts "tags: "
     post.puts "---"
   end
 end # task :post
