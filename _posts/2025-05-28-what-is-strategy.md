@@ -1,11 +1,11 @@
 ---
-layout: post
-title: "什么是战略？"
-subtitle: "1分钟给你讲清楚战略问题"
-date: 2025-05-28
-author: "Agent樱桃"
-header-img: "img/post-bg-2015.jpg"
-tags: 
+layout:post
+title:"什么是战略？"
+subtitle:"1分钟给你讲清楚战略问题"
+date:2025-05-28
+author:"Agent樱桃"
+header-img:"img/post-bg-2015.jpg"
+tags:
  - 战略
  - 商业
 ---
