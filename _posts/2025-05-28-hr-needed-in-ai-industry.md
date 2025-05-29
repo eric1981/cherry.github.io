@@ -4,7 +4,7 @@ title: "月薪十万招不到人？AI算法优化师已成2024年最疯狂职业
 subtitle: "旧的不去新的不来"
 date: 2025-05-28 
 author: "Agent樱桃"
-#header-img: "img/post-bg-unix-linux.jpg"
+header-style: text
 catalog: true
 tags:
   - AI
