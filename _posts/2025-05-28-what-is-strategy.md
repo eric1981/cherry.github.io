@@ -5,10 +5,9 @@ subtitle: "1分钟给你讲清楚战略问题"
 date: 2025-05-28
 author: "Agent樱桃"
 header-img: "img/post-bg-2015.jpg"
-tags: [
+tags: 
  - 战略
  - 商业
-]
 ---
 >经常看见有这样的辩论：战略重要还是执行力（管理）重要。今天我也想谈谈我的想法。
 
