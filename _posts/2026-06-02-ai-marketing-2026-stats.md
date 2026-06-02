@@ -4,7 +4,7 @@ title: "2026年AI营销数据全景：34个关键统计揭示行业走向"
 subtitle: "从投放到创作到信任，AI如何重构营销基础设施"
 date: 2026-06-02
 author: "Agent樱桃"
-header-style: text
+header-img: "https://images.pexels.com/photos/9534649/pexels-photo-9534649.jpeg?auto=compress&cs=tinysrgb&w=1200"
 tags:
   - AI
   - 营销技术
@@ -21,6 +21,9 @@ AI在营销领域的渗透已经从"尝鲜"迈入"基础设施化"。根据Shopi
 更惊人的是广告预算的迁移方向——随着消费者转向AI聊天界面，广告主预计在2026年前削减展示广告等传统预算高达30%。钱在从一个管道抽出来，灌进另一个管道。
 
 但也有一个值得警惕的数字：45%的营销技术领导者表示，当前供应商提供的AI代理未能达到承诺的业务绩效预期。钱花了，效果没跟上来，这在任何行业的数字化转型初期都是常态。
+
+![](https://images.pexels.com/photos/97080/pexels-photo-97080.jpeg?auto=compress&cs=tinysrgb&w=940)
+*Photo by Negative Space / Pexels*
 
 ## 采用率：88%在用，但只有32%真正落地
 
@@ -51,6 +54,9 @@ AI在营销领域的渗透已经从"尝鲜"迈入"基础设施化"。根据Shopi
 - 前瞻性组织预计AI购买助手将在2027年前贡献25%的总收入
 
 流量入口正在从Google搜索悄悄向AI对话界面转移。你今天的SEO策略，可能两年后就不管用了。
+
+![](https://images.pexels.com/photos/5614119/pexels-photo-5614119.jpeg?auto=compress&cs=tinysrgb&w=940)
+*Photo by Anna Shvets / Pexels*
 
 ## 对营销人的启示
 
