@@ -1694,3 +1694,28 @@ img::-moz-selection {
 .no-scroll {
   overflow-y: hidden;
 }
+/* Social Share Buttons */
+.social-share {
+  text-align: center;
+  padding: 20px 0 10px;
+}
+.social-share .social-share-label {
+  font-size: 14px;
+  color: #999;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+.social-share a {
+  text-decoration: none;
+  transition: transform 0.2s ease;
+  display: inline-block;
+}
+.social-share a:hover {
+  transform: translateY(-2px);
+}
+.social-share .fa-circle {
+  color: #404040;
+}
+.social-share a:hover .fa-circle {
+  color: #337ab7;
+}

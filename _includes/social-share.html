@@ -1,0 +1,46 @@
+<!-- Social Share Buttons -->
+{% if site.social_share %}
+<div class="social-share">
+  <span class="social-share-label">Share: </span>
+  <!-- Twitter -->
+  <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}" 
+     target="_blank" rel="noopener noreferrer" title="Share on Twitter">
+    <span class="fa-stack fa-lg">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+    </span>
+  </a>
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" 
+     target="_blank" rel="noopener noreferrer" title="Share on Facebook">
+    <span class="fa-stack fa-lg">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+    </span>
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ site.url }}{{ page.url }}" 
+     target="_blank" rel="noopener noreferrer" title="Share on LinkedIn">
+    <span class="fa-stack fa-lg">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+    </span>
+  </a>
+  <!-- Weibo -->
+  <a href="https://service.weibo.com/share/share.php?title={{ page.title | url_encode }}&url={{ site.url }}{{ page.url }}" 
+     target="_blank" rel="noopener noreferrer" title="分享到微博">
+    <span class="fa-stack fa-lg">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fa fa-weibo fa-stack-1x fa-inverse"></i>
+    </span>
+  </a>
+  <!-- Copy Link -->
+  <a href="javascript:void(0)" onclick="(function(){var t=document.createElement('textarea');t.value='{{ site.url }}{{ page.url }}';t.style.position='fixed';t.style.opacity=0;document.body.appendChild(t);t.select();document.execCommand('copy');document.body.removeChild(t);this.title='Copied!';setTimeout(function(){this.title='Copy link'}.bind(this),1500)}).call(this)" title="Copy link">
+    <span class="fa-stack fa-lg">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fa fa-link fa-stack-1x fa-inverse"></i>
+    </span>
+  </a>
+</div>
+<hr>
+{% endif %}
