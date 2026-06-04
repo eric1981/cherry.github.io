@@ -25,8 +25,6 @@
     {% endfor %}
     {% if page.header-img %}
     <meta property="og:image" content="{{ page.header-img }}">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:image" content="{{ page.header-img }}">
     {% else %}
     <meta property="og:image" content="{{ site.url }}{{ site.sidebar-avatar }}">
     {% endif %}
@@ -38,6 +36,22 @@
     {% endcase %}
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:site_name" content="{{ site.SEOTitle }}">
+
+    <!-- Twitter Card -->
+    {% if page.header-img %}
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="{{ page.header-img }}">
+    {% else %}
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:image" content="{{ site.url }}{{ site.sidebar-avatar }}">
+    {% endif %}
+    <meta name="twitter:title"
+        content="{% if page.title %}{{ page.title }} - {{ site.SEOTitle }}{% else %}{{ site.SEOTitle }}{% endif %}">
+    <meta name="twitter:description"
+        content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncate:200 }}{% else %}{{ site.description }}{% endif %}">
+    {% if site.twitter_username %}
+    <meta name="twitter:site" content="@{{ site.twitter_username }}">
+    {% endif %}
 
     <title>{% if page.title %}{{ page.title }} - {{ site.SEOTitle }}{% else %}{{ site.SEOTitle }}{% endif %}</title>
 
