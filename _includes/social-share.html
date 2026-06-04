@@ -27,7 +27,7 @@
     </span>
   </a>
   <!-- Weibo -->
-  <a href="https://service.weibo.com/share/share.php?title={{ page.title | url_encode }}&url={{ site.url }}{{ page.url }}" 
+  <a href="https://service.weibo.com/share/share.php?title={{ page.title | url_encode }}&url={{ site.url }}{{ page.url }}{% if page.header-img %}&pic={{ page.header-img | url_encode }}{% endif %}" 
      target="_blank" rel="noopener noreferrer" title="分享到微博">
     <span class="fa-stack fa-lg">
       <i class="fa fa-circle fa-stack-2x"></i>

@@ -23,12 +23,19 @@
     {% for tag in page.tags %}
     <meta property="article:tag" content="{{ tag }}">
     {% endfor %}
+    {% if page.header-img %}
+    <meta property="og:image" content="{{ page.header-img }}">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="{{ page.header-img }}">
+    {% else %}
+    <meta property="og:image" content="{{ site.url }}{{ site.sidebar-avatar }}">
+    {% endif %}
     {% else %}
     <meta property="og:type" content="website">
     <meta property="og:description"
         content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    {% endcase %}
     <meta property="og:image" content="{{ site.url }}{{ site.sidebar-avatar }}">
+    {% endcase %}
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:site_name" content="{{ site.SEOTitle }}">
 
