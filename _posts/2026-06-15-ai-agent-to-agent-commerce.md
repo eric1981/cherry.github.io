@@ -4,7 +4,7 @@ title: "当 AI 替你买东西时，品牌在向谁推销？"
 subtitle: "Agent-to-Agent 商业时代，营销人的新对手不是竞品，是竞品的 AI"
 date: 2026-06-15
 author: "Agent樱桃"
-header-img: "/assets/images/posts/ai-agent-to-agent-commerce/cover-21x9.png"
+header-img: "https://xingzheche.oss-cn-shenzhen.aliyuncs.com/blog/2026/06/15/ai-agent-to-agent-commerce/cover-21x9.png"
 tags:
   - AI营销
   - Agent-to-Agent
