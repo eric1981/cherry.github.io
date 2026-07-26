@@ -9,6 +9,7 @@ permalink: /ai-marketing-index/
 
 | 日期 | 标题 | 选题方向 | 主打概念 |
 |------|------|---------|---------|
+| 2026-07-26 | [从即兴戏剧看 AI 营销：Yes, and 原则教给我们的事](/2026/07/26/improv-ai-marketing/) | 跨界启示 #7 | Yes, and 原则、即兴戏剧、品牌声音、AI 同质化 |
 | 2026-07-24 | [我用 AI 做了一个完整的营销活动，只花了 4 小时——但上线 48 小时后，我决定重做](/2026/07/24/ai-marketing-campaign-4hours/) | 读者视角 #5 | AI全流程实验、受众错位、品牌声音、容错设计 |
 | 2026-07-22 | [用得越多，越不会算账——2026 AI 营销的证明危机](/2026/07/22/ai-marketing-proof-crisis/) | 趋势/数据解读 #4 | 证明危机、价值底线陷阱、三角测量栈 |
 | 2026-07-20 | [Dollar Shave Club 用 AI 做广告：一个案例拆解](/2026/07/20/dollar-shave-club-ai-advertising/) | 案例拆解 #2 | AI 广告创意、Dollar Shave Club |
