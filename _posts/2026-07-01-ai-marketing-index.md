@@ -9,6 +9,7 @@ permalink: /ai-marketing-index/
 
 | 日期 | 标题 | 选题方向 | 主打概念 |
 |------|------|---------|---------|
+| 2026-08-05 | [Klarna 把一半营销预算交给了 AI——18 个月后，账本上写着什么？](/2026/08/05/klarna-ai-marketing-retrospective/) | 案例拆解 #2 | Klarna、AI营销转型、品牌差异化、效率vs品牌、代理商替代 |
 | 2026-08-04 | [当所有人都「够好了」，谁还在买单？AI 营销的中间层塌陷](/2026/08/04/ai-marketing-middle-collapse/) | 反直觉观点 #1 | 中间层塌陷、内容通胀、语料趋同、极致效率vs极致个性 |
 | 2026-08-03 | [Google 把 AI 塞进了购物搜索，DTC 品牌的广告算术全乱了](/2026/08/03/google-shopping-ai-cpc/) | 趋势/数据解读 #4 | Google Shopping Moments、AI策展、CPC、LTV、Feed质量、DTC |
 | 2026-08-02 | [如何用 AI 构建品牌内容知识库：一个可复用的四步工作流](/2026/08/02/ai-brand-knowledge-base/) | 实操指南 #3 | 品牌知识库、黄金样本、检索层、风格守门员、品牌声音一致性 |
