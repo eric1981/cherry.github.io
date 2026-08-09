@@ -9,7 +9,7 @@ permalink: /ai-marketing-index/
 
 | 日期 | 标题 | 选题方向 | 主打概念 |
 |------|------|---------|---------|
-| 2026-08-06 | [AI 广告够好了，然后呢？——效率派与人性派的行业交锋](/2026/08/06/ai-ads-good-enough-debate/) | 行业交锋 #6 | AI广告、CTR vs 情感共鸣、算法均值化、操作层vs意义层、品牌差异化 |
+| 2026-08-09 | [好的 AI 营销就像一道好菜——一个厨师教给我的事](/2026/08/09/cooking-ai-marketing/) | 跨界启示 #7 | 烹饪隐喻、食材=数据、火候=时机、调味=品牌声音、厨师直觉、人机协作 |
 | 2026-08-05 | [Klarna 把一半营销预算交给了 AI——18 个月后，账本上写着什么？](/2026/08/05/klarna-ai-marketing-retrospective/) | 案例拆解 #2 | Klarna、AI营销转型、品牌差异化、效率vs品牌、代理商替代 |
 | 2026-08-04 | [当所有人都「够好了」，谁还在买单？AI 营销的中间层塌陷](/2026/08/04/ai-marketing-middle-collapse/) | 反直觉观点 #1 | 中间层塌陷、内容通胀、语料趋同、极致效率vs极致个性 |
 | 2026-08-03 | [Google 把 AI 塞进了购物搜索，DTC 品牌的广告算术全乱了](/2026/08/03/google-shopping-ai-cpc/) | 趋势/数据解读 #4 | Google Shopping Moments、AI策展、CPC、LTV、Feed质量、DTC |
