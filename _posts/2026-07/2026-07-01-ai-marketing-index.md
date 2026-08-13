@@ -9,6 +9,7 @@ permalink: /ai-marketing-index/
 
 | 日期 | 标题 | 选题方向 | 主打概念 |
 |------|------|---------|---------|
+| 2026-08-13 | [客户把搜索交给了 AI，又在你看不见的地方验了一遍——Thorne 的 30% 增长藏在这里](/2026/08/13/thorne-ai-discovery-split/) | 案例拆解 #2 | 购买决策分裂、发现vs验证、AI可见性/GEO/AEO、Thorne、Croud、归因空白 |
 | 2026-08-12 | [AI 视频广告打赢了真人拍摄——WD-40 和 Cuisinart 的亚马逊实战报告](/2026/08/12/amazon-ai-video-ads-wd40-cuisinart/) | 实操指南 #3 | AI视频广告、Amazon Video Generator、全漏斗策略、素材-测试-迭代飞轮、WD-40、Cuisinart |
 | 2026-08-09 | [好的 AI 营销就像一道好菜——一个厨师教给我的事](/2026/08/09/cooking-ai-marketing/) | 跨界启示 #7 | 烹饪隐喻、食材=数据、火候=时机、调味=品牌声音、厨师直觉、人机协作 |
 | 2026-08-05 | [Klarna 把一半营销预算交给了 AI——18 个月后，账本上写着什么？](/2026/08/05/klarna-ai-marketing-retrospective/) | 案例拆解 #2 | Klarna、AI营销转型、品牌差异化、效率vs品牌、代理商替代 |
