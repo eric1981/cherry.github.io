@@ -9,6 +9,9 @@ permalink: /ai-marketing-index/
 
 | 日期 | 标题 | 选题方向 | 主打概念 |
 |------|------|---------|---------|
+| 2026-08-18 | [AI 搜索已经分裂：ChatGPT 和 Perplexity 引用同一批网站的概率只有 11%](/2026/08/18/ai-search-engine-fragmentation/) | 趋势/数据解读 #4 | 引擎分裂、680M引用、引用域重叠11%、多引擎内容架构、Reddit 46.7%、GEO |
+| 2026-08-17 | [AI 视频里的模特为什么手足无措：动作不是清单是因果链](/2026/08/17/ai-video-causal-chain/) | 实操指南 #3 | AI视频、动作因果链、PoseBook、肢体语言、素材真实感 |
+| 2026-08-16 | [AI 营销素材的「假」不在画质：人不在场景里](/2026/08/16/ai-scene-unity/) | 反直觉观点 #1 | 场景统一性、人景关系、AI素材方法论、换背景测试 |
 | 2026-08-15 | [我让 AI 替我选题 30 天：它越来越懂我，我越来越无聊](/2026/08/15/ai-content-director-30days/) | 读者视角 #5 | AI选题实验、平均值陷阱、独特性-多样性权衡、The Basic B*** Effect、探索预算、回归均值、内容同质化 |
 | 2026-08-13 | [客户把搜索交给了 AI，又在你看不见的地方验了一遍——Thorne 的 30% 增长藏在这里](/2026/08/13/thorne-ai-discovery-split/) | 案例拆解 #2 | 购买决策分裂、发现vs验证、AI可见性/GEO/AEO、Thorne、Croud、归因空白 |
 | 2026-08-12 | [AI 视频广告打赢了真人拍摄——WD-40 和 Cuisinart 的亚马逊实战报告](/2026/08/12/amazon-ai-video-ads-wd40-cuisinart/) | 实操指南 #3 | AI视频广告、Amazon Video Generator、全漏斗策略、素材-测试-迭代飞轮、WD-40、Cuisinart |
