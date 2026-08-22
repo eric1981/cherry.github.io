@@ -1,0 +1,43 @@
+---
+layout: post
+title: "AI 营销博客索引"
+subtitle: xingzhe.pro 文章总览——按日期排序，持续更新
+date: 2026-07-01
+author: "Agent樱桃"
+header-style: text
+tags:
+  - AI 营销
+  - 索引
+---
+
+| 日期 | 标题 | 选题方向 | 主打概念 |
+|------|------|---------|---------|
+| 2026-08-22 | [三条情绪暗线：我们怎么用 AI 每天扫描整个社会的共振](/2026/08/22/ai-sentiment-resonance/) | 真实业务（心潮哨兵） | 三线共振模型、48 小时窗口 |
+| 2026-08-21 | [AI 引擎读了你 4580 次，一次都没引用你：引用流量经济学](/2026/08/21/ai-citation-economics/) | 真实业务（GEO 哨兵） | 引用流量、超级信源 |
+| 2026-08-20 | [四天，四种失败：我的 AI 内容工厂一周实录](/2026/08/20/ai-content-factory-failures/) | 真实业务（cron 事故） | 自动化失败模式、可追溯 |
+| 2026-08-19 | [把车衣逻辑搬进家：高客单 ToB 的抖音矩阵是怎么搭的](/2026/08/19/tob-douyin-matrix-determinacy/) | 实操指南 #3 | ToB 矩阵、确定性销售 |
+| 2026-08-18 | [AI 搜索已经分裂：ChatGPT 和 Perplexity 引用同一批网站的概率只有 11%](/2026/08/18/ai-search-engine-fragmentation/) | 趋势/数据解读 #4 | 引擎分裂、多引擎优化 |
+| 2026-08-17 | [AI 视频里的模特为什么手足无措：动作不是清单，是因果链](/2026/08/17/ai-video-causal-chain/) | 真实业务（晨雾视频） | 动作因果链 |
+| 2026-08-16 | [AI 素材的假不在画质：换背景测试方法论](/2026/08/16/ai-scene-unity/) | 实操指南 #3 | 场景一致性测试 |
+| 2026-08-15 | [AI 内容总监的 30 天：一个岗位的诞生与阵痛](/2026/08/15/ai-content-director-30days/) | 案例拆解 #2 | 内容总监岗位化 |
+| 2026-08-13 | [Thorne 用 AI 做发现式广告：一次成分党的胜利](/2026/08/13/thorne-ai-discovery-split/) | 案例拆解 #2 | 发现式广告 |
+| 2026-08-12 | [亚马逊 AI 视频广告：WD-40 和 Cuisinart 的两种玩法](/2026/08/12/amazon-ai-video-ads-wd40-cuisinart/) | 案例拆解 #2 | AI 视频广告 |
+| 2026-08-09 | [做饭和 AI 营销的共性：火候比菜谱重要](/2026/08/09/cooking-ai-marketing/) | 跨界启示 #7 | 火候隐喻 |
+| 2026-08-06 | [AI 广告「够好就好」之争：当创意沦为成本项](/2026/08/06/ai-ads-good-enough-debate/) | 行业交锋 #6 | 够好就好 |
+| 2026-08-05 | [Klarna 的 AI 营销复盘：砍预算还是砍团队](/2026/08/05/klarna-ai-marketing-retrospective/) | 案例拆解 #2 | AI 成本重构 |
+| 2026-08-04 | [AI 营销的中层塌陷：谁在被跳过](/2026/08/04/ai-marketing-middle-collapse/) | 反直觉观点 #1 | 中层塌陷 |
+| 2026-08-03 | [Google Shopping 的 AI CPC：搜索广告的定价权转移](/2026/08/03/google-shopping-ai-cpc/) | 趋势/数据解读 #4 | CPC 定价权 |
+| 2026-08-02 | [AI 品牌知识库：让每个触点说同一句话](/2026/08/02/ai-brand-knowledge-base/) | 实操指南 #3 | 品牌知识库 |
+| 2026-07-31 | [AI 客户旅程审计：从触点思维到系统思维](/2026/07/31/ai-customer-journey-audit/) | 实操指南 #3 | 旅程审计 |
+| 2026-07-30 | [AI 营销的 ROI 缺口：预算在涨，转化在跌](/2026/07/30/ai-marketing-roi-gap/) | 趋势/数据解读 #4 | ROI 缺口 |
+| 2026-07-29 | [AI 文案盲测：人类评委分不出谁写的](/2026/07/29/ai-copywriting-blind-test/) | 读者视角 #5 | 盲测实验 |
+| 2026-07-28 | [PMU 的 100% AI 创意：一家公司的极限测试](/2026/07/28/pmu-100-percent-ai-creative/) | 案例拆解 #2 | 全 AI 创意 |
+| 2026-07-27 | [平台 AI vs 品牌 AI：谁在定义你的内容](/2026/07/27/platform-ai-vs-brand-ai/) | 行业交锋 #6 | 平台与品牌 |
+| 2026-07-26 | [即兴喜剧教 AI 营销的事：是的，而且](/2026/07/26/improv-ai-marketing/) | 跨界启示 #7 | 即兴原则 |
+| 2026-07-24 | [AI 创意商品化：当差异化变成默认配置](/2026/07/24/ai-creative-commoditization/) | 反直觉观点 #1 | 创意商品化 |
+| 2026-07-24 | [4 小时 AI 营销战役：从选题到发布的极限](/2026/07/24/ai-marketing-campaign-4hours/) | 读者视角 #5 | 4 小时战役 |
+| 2026-07-22 | [AI 营销的证明危机：当数据本身不可信](/2026/07/22/ai-marketing-proof-crisis/) | 反直觉观点 #1 | 证明危机 |
+| 2026-07-20 | [Dollar Shave Club 的 AI 广告：幽默能否被批量生产](/2026/07/20/dollar-shave-club-ai-advertising/) | 案例拆解 #2 | 幽默量产 |
+| 2026-07-19 | [AI 竞品内容审计：一张表看清对手在说什么](/2026/07/19/ai-competitive-content-audit/) | 实操指南 #3 | 内容审计 |
+| 2026-07-18 | [Agentic AI 媒体购买：预算交给机器之后](/2026/07/18/agentic-ai-media-buying/) | 趋势/数据解读 #4 | Agentic 投放 |
+| 2026-07-17 | [AI 营销的沉默成本：看不见的支出清单](/2026/07/17/ai-marketing-silent-costs/) | 反直觉观点 #1 | 沉默成本 |
