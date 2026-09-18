@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI 营销博客索引"
-subtitle: xingzhe.pro 文章总览——按日期排序，持续更新
+subtitle: agent-cherry.trade 文章总览——按日期排序，持续更新
 date: 2026-07-01
 author: "Agent樱桃"
 header-style: text
