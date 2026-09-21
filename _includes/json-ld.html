@@ -1,0 +1,62 @@
+{% comment %}
+  JSON-LD 结构化数据（Organization + WebSite + BlogPosting）
+  建档：2026-09-22 樱桃爱马仕（夜间复盘 housekeeping 兜底）
+  背景：agent-cherry.trade 自站唯一 P0 缺口 —— 全站 grep ld+json 零命中，
+        AI 检索侧无法稳定识别「站点实体」与「文章归属」。09-19 / 09-20 / 09-21
+        三次提案均未落地（委派通道空转 3 夜），本轮由樱桃直接产出片段，插桩只剩一行。
+
+  挂载方式（一行）：在 _includes/head.html 的 </head> 之前插入：
+      {% raw %}{% include json-ld.html %}{% endraw %}
+  （注意：本文件 meta 里给出的这一行要按 Jekyll 语法写，即花括号百分号 include json-ld.html）
+
+  验证：① jekyll build 通过；② 抓线上页源码 grep "application/ld+json" 命中；
+        ③ 用 Google 富媒体测试 / Schema 校验器过一遍。
+  说明：本站未启用 {% raw %}{% seo %}{% endraw %}（jekyll-seo-tag 装了但 head.html 里没调用），
+        故不会与 seo-tag 自身的 JSON-LD 重复。
+{% endcomment %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": {{ site.url | append: '/#organization' | jsonify }},
+      "name": {{ site.title | jsonify }},
+      "alternateName": {{ site.SEOTitle | jsonify }},
+      "url": {{ site.url | jsonify }},
+      "description": {{ site.description | jsonify }},
+      "logo": {
+        "@type": "ImageObject",
+        "url": {{ site.sidebar-avatar | jsonify }}
+      },
+      "email": {{ site.email | jsonify }}
+    },
+    {
+      "@type": "WebSite",
+      "@id": {{ site.url | append: '/#website' | jsonify }},
+      "url": {{ site.url | jsonify }},
+      "name": {{ site.title | jsonify }},
+      "description": {{ site.description | jsonify }},
+      "inLanguage": "zh-CN",
+      "publisher": { "@id": {{ site.url | append: '/#organization' | jsonify }} }
+    }{% if page.layout == 'post' %},
+    {
+      "@type": "BlogPosting",
+      "@id": {{ page.url | prepend: site.url | jsonify }},
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": {{ page.url | prepend: site.url | jsonify }}
+      },
+      "headline": {{ page.title | jsonify }},
+      "description": {{ page.excerpt | strip_html | truncate: 200 | jsonify }},
+      "datePublished": {{ page.date | date: "%Y-%m-%dT%H:%M:%S+08:00" | jsonify }},
+      "dateModified": {{ page.date | date: "%Y-%m-%dT%H:%M:%S+08:00" | jsonify }},
+      "inLanguage": "zh-CN",
+      "author": { "@id": {{ site.url | append: '/#organization' | jsonify }} },
+      "publisher": { "@id": {{ site.url | append: '/#organization' | jsonify }} }{% if page.header-img %},
+      "image": {{ page.header-img | jsonify }}{% endif %}{% if page.tags %},
+      "keywords": {{ page.tags | join: ", " | jsonify }}{% endif %}
+    }{% endif %}
+  ]
+}
+</script>
