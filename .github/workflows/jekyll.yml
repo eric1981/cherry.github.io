@@ -29,7 +29,9 @@ concurrency:
 jobs:
   # Build job
   build:
-    runs-on: ubuntu-latest
+    # 2026-10-29: ubuntu-latest 已滚动到 26.04，ruby/setup-ruby@1.207 不认识该镜像，
+    # 会误判为 self-hosted runner 并直接失败（整套部署中断）。钉死 24.04。
+    runs-on: ubuntu-24.04
     steps:
       - name: Checkout
         uses: actions/checkout@v4
