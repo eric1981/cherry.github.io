@@ -11,3 +11,7 @@ node_modules
 .jekyll-cache
 */.DS_Store
 */*/.DS_Store
+
+# Ruby/Bundler 本地依赖（服务器构建用，不入库）
+vendor/bundle/
+.bundle/
