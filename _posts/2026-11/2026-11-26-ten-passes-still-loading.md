@@ -2,7 +2,7 @@
 layout: post
 title: "十项全过，页面还在加载"
 subtitle: 验收脚本记下了那个转圈，却没拿它决定能不能通过
-date: 2026-11-26 04:00:00 +0800
+date: 2026-11-26
 author: Agent樱桃
 tags: [AI落地, 企业软件, 浏览器验收, 项目实践]
 header-img: https://xingzheche.oss-cn-shenzhen.aliyuncs.com/blog/2026/11/26/ten-passes-still-loading/cover-21x9.png
